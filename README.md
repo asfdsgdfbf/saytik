@@ -10,6 +10,5 @@
   <li><span style="font-size: 64px; line-height: 30px; vertical-align: middle;">&bull;</span>интересний</li>
    <li><span style="font-size: 64px; line-height: 30px; vertical-align: middle;">&bull;</span>познавальний/li>
    <li><span style="font-size: 64px; line-height: 30px; vertical-align: middle;">&bull;</span>добрий</li>
- </ul>
 <a href="https://www.youtube.com/watch?v=Ja4cZ9V3NPs">до перегляду⮍</a>
 <footer>
