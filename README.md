@@ -1,6 +1,6 @@
 <html> 
  <header>
-      <img src="https://citaty.info/files/posters/148022.jpg" height="50"/>
+      <img src="https://citaty.info/files/posters/148022.jpg" height="200"/>
   </header>
   <link rel="stylesheet"href="style.css"/>
 
