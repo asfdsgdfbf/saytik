@@ -2,7 +2,6 @@
  <header>
       <img src="https://citaty.info/files/posters/148022.jpg" height="200"/>
   </header>
-  <link rel="stylesheet"href="style.css"/>
 
  <body> <h1> Трейлер фильма 15-ти річний капітан</h1>
  <img src="https://i.ytimg.com/vi/gzWtRtL7qQA/maxresdefault.jpg">
@@ -13,5 +12,4 @@
    <li><span style="font-size: 64px; line-height: 30px; vertical-align: middle;">&bull;</span>добрий</li>
  </ul>
 <a href="https://www.youtube.com/watch?v=Ja4cZ9V3NPs">до перегляду⮍</a>
-<footer></body>
-</html>
+<footer>
